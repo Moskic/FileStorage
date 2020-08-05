@@ -13,7 +13,7 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'mysite': {
-      label: '29水友特供版',
+      label: '服务器 V1',
       lines: {
         [location.host]: 1,
       }
